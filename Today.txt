@@ -1,3 +1,2 @@
 1.TodayTest
-2.TodayTest2
-3.TodayTest3
+2. 아리 산책시키기
